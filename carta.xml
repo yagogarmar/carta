@@ -14,10 +14,11 @@
       <precio>5.99</precio>
     </plato>
   </principales>
-  <postres>
+  <a>
     <plato>
-      <nombre>Helado de fresa con nata</nombre>
-      <descripcion>Helado calentitos</descripcion>
+      <nombre>Macarrones</nombre>
+      <descripcion>Macarrones calentitos</descripcion>
+      <precio>5.99</precio>
     </plato>
-  </postres>
+  </a>
 </carta>
