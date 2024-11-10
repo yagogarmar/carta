@@ -5,6 +5,7 @@
       <nombre>Patatas Barbas</nombre>
       <descripcion>Patatas brabas con salsa especial de la casa calentitas</descripcion>
       <precio>2.99</precio>
+      <img>patatas_bravas.png</img>
     </plato>
   </entrantes>
   <principales>
@@ -12,6 +13,7 @@
       <nombre>Macarrones</nombre>
       <descripcion>Macarrones calentitos</descripcion>
       <precio>5.99</precio>
+      <img>patatas_bravas.png</img>
     </plato>
   </principales>
   <postres>
@@ -19,6 +21,7 @@
       <nombre>Helado</nombre>
       <descripcion>Helado calentitos</descripcion>
       <precio>1.99</precio>
+      <img>patatas_bravas.png</img>
     </plato>
   </postres>
 </carta>
