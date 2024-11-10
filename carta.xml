@@ -2,7 +2,12 @@
 <carta>
   <entrantes>
     <plato>
-      <nombre>Macarrones :)</nombre>
+      <nombre>Macarrones</nombre>
+      <descripcion>Macarrones calentitos</descripcion>
+      <precio>5.99</precio>
+    </plato>
+    <plato>
+      <nombre>Macarrones 2</nombre>
       <descripcion>Macarrones calentitos</descripcion>
       <precio>5.99</precio>
     </plato>
