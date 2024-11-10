@@ -14,11 +14,11 @@
       <precio>5.99</precio>
     </plato>
   </principales>
-  <a>
+  <postres>
     <plato>
-      <nombre>Macarrones</nombre>
-      <descripcion>Macarrones calentitos</descripcion>
-      <precio>5.99</precio>
+      <nombre>Helado</nombre>
+      <descripcion>Helado calentitos</descripcion>
+      <precio>1.99</precio>
     </plato>
-  </a>
+  </postres>
 </carta>
