@@ -2,14 +2,22 @@
 <carta>
   <entrantes>
     <plato>
+      <nombre>Patatas Barbas</nombre>
+      <descripcion>Patatas brabas con salsa especial de la casa calentitas</descripcion>
+      <precio>2.99</precio>
+    </plato>
+  </entrantes>
+  <principales>
+    <plato>
       <nombre>Macarrones</nombre>
       <descripcion>Macarrones calentitos</descripcion>
       <precio>5.99</precio>
     </plato>
+  </principales>
+  <postres>
     <plato>
-      <nombre>Macarrones 2</nombre>
-      <descripcion>Macarrones calentitos</descripcion>
-      <precio>5.99</precio>
+      <nombre>Helado de fresa con nata</nombre>
+      <descripcion>Helado calentitos</descripcion>
     </plato>
-  </entrantes>
+  </postres>
 </carta>
