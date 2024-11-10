@@ -3,17 +3,29 @@
   <entrantes>
     <plato>
       <nombre>Patatas Brabas</nombre>
-      <descripcion>Patatas brabas con salsa especial de la casa calentitas</descripcion>
+      <descripcion>Patatas brabas calentitas</descripcion>
       <precio>2.99</precio>
       <img>patatas_bravas.png</img>
+    </plato>
+    <plato>
+      <nombre>Calamares Fritos</nombre>
+      <descripcion>Calamares Fritos calentitos</descripcion>
+      <precio>3.40</precio>
+      <img>calamares.png</img>
     </plato>
   </entrantes>
   <principales>
     <plato>
       <nombre>Macarrones</nombre>
       <descripcion>Macarrones calentitos</descripcion>
-      <precio>5.99</precio>
+      <precio>10.99</precio>
       <img>macarrones.png</img>
+    </plato>
+    <plato>
+      <nombre>Canelones de la abuela</nombre>
+      <descripcion>Canelones calentitos</descripcion>
+      <precio>15.99</precio>
+      <img>canelones.png</img>
     </plato>
   </principales>
   <postres>
@@ -22,6 +34,12 @@
       <descripcion>Helado calentitos</descripcion>
       <precio>1.99</precio>
       <img>helado.png</img>
+    </plato>
+    <plato>
+      <nombre>Tarta de queso</nombre>
+      <descripcion>Tarta de queso calentita</descripcion>
+      <precio>1.99</precio>
+      <img>tarta.png</img>
     </plato>
   </postres>
 </carta>
